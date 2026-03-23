@@ -1,4 +1,4 @@
-# CHOUJI – 奮闘中
+# CHOUJI – 奮闘中 - During the struggle
 
 > **歌詞登録ステータス：同期歌詞あり**
 
