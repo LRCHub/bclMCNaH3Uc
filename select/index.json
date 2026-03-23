@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "奮闘中 - During the struggle",
+  "base_artist": "CHOUJI",
+  "createdAt": "2026-03-23T09:46:43.569946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "奮闘中 - During the struggle",
+      "artist": "CHOUJI",
+      "has_synced": true,
+      "path": "select/01_奮闘中_-_During_the_struggle_CHOUJI.lrc"
+    }
+  ]
+}
